@@ -1,0 +1,34 @@
+		**Welcome  Customer**
+
+Bill Number : 904
+
+Customer Name : amet
+
+ Customer Phone : 1231231
+
+===========================================
+Product		Quantity		Price
+===========================================
+Html Project:	2			40 TL
+Css Project:	2			100 TL
+Bootstrapt Project:	23			1610 TL
+React Project:	3			330 TL
+Tailwind Project:	3			270 TL
+React+Tailwind Project:	4			800 TL
+Flask Project:	4			480 TL
+Django Project:	3			450 TL
+Node.js Project:	2			340 TL
+Sql Project:	23			2300 TL
+React+Tailwind Project:	4			760 TL
+Tailwind Project:	2			200 TL
+JavaScript Project:	3			330 TL
+Python Project:	23			2300 TL
+Desktop Project:	1			170 TL
+React + Django Project:	12			3600 TL
+React+Flask Project:	5			1100 TL
+Mobile Project:	1			260 TL
+------------------------------------------------
+ FrontEnd Tax: 	472.5 TL
+ Backend Tax: 	679.5 TL
+ FullStack Tax: 	1164.0 TL
+Total Bill : 		 17756.0 

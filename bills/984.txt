@@ -1,0 +1,34 @@
+		**Welcome  Customer**
+
+Bill Number : 984
+
+Customer Name : memet
+
+ Customer Phone : 4343434343
+
+===========================================
+Product		Quantity		Price
+===========================================
+Html Project:	2			40 TL
+Css Project:	2			100 TL
+Bootstrapt Project:	2			140 TL
+React Project:	2			220 TL
+Tailwind Project:	3			270 TL
+React+Tailwind Project:	3			600 TL
+Flask Project:	44			5280 TL
+Django Project:	4			600 TL
+Node.js Project:	4			680 TL
+Sql Project:	4			400 TL
+React+Tailwind Project:	5			950 TL
+Tailwind Project:	4			1000 TL
+JavaScript Project:	5			550 TL
+Python Project:	3			300 TL
+Desktop Project:	8			1360 TL
+React + Django Project:	7			2100 TL
+React+Flask Project:	6			1320 TL
+Mobile Project:	9			2340 TL
+------------------------------------------------
+ FrontEnd Tax: 	205.5 TL
+ Backend Tax: 	1336.5 TL
+ FullStack Tax: 	1195.5 TL
+Total Bill : 		 20987.5 

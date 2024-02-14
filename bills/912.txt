@@ -1,0 +1,67 @@
+		**Welcome  Customer**
+
+Bill Number : 810
+
+Customer Name : Yavuzhan
+
+ Customer Phone : 13123123123
+
+===========================================
+Product		Quantity		Price
+===========================================
+Html Project:	1			20 TL
+Css Project:	22			1100 TL
+Bootstrapt Project:	3			210 TL
+React Project:	3			330 TL
+Tailwind Project:	33			2970 TL
+React+Tailwind Project:	3			600 TL
+Flask Project:	2			240 TL
+Django Project:	23			3450 TL
+Node.js Project:	2			340 TL
+Sql Project:	1			100 TL
+React+Tailwind Project:	1			190 TL
+Tailwind Project:	2			600 TL
+JavaScript Project:	1			110 TL
+Python Project:	22			2200 TL
+Desktop Project:	1			170 TL
+React + Django Project:	44			13200 TL
+React+Flask Project:	1			220 TL
+Mobile Project:	1			260 TL
+------------------------------------------------
+ FrontEnd Tax: 	784.5 TL
+ Backend Tax: 	738.0 TL
+ FullStack Tax: 	2424.0 TL
+Total Bill : 		 30256.5 		**Welcome  Customer**
+
+Bill Number : 912
+
+Customer Name : necati
+
+ Customer Phone : 13123123123
+
+===========================================
+Product		Quantity		Price
+===========================================
+Html Project:	1			20 TL
+Css Project:	22			1100 TL
+Bootstrapt Project:	3			210 TL
+React Project:	3			330 TL
+Tailwind Project:	33			2970 TL
+React+Tailwind Project:	3			600 TL
+Flask Project:	2			240 TL
+Django Project:	11			1650 TL
+Node.js Project:	2			340 TL
+Sql Project:	1			100 TL
+React+Tailwind Project:	1			190 TL
+Tailwind Project:	2			600 TL
+JavaScript Project:	1			110 TL
+Python Project:	11			1100 TL
+Desktop Project:	1			170 TL
+React + Django Project:	11			3300 TL
+React+Flask Project:	1			220 TL
+Mobile Project:	1			260 TL
+------------------------------------------------
+ FrontEnd Tax: 	784.5 TL
+ Backend Tax: 	468.0 TL
+ FullStack Tax: 	774.0 TL
+Total Bill : 		 15536.5 

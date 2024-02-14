@@ -1,0 +1,34 @@
+		**Welcome  Customer**
+
+Bill Number : 680
+
+Customer Name : ahmet
+
+ Customer Phone : 474346343
+
+===========================================
+Product		Quantity		Price
+===========================================
+Html Project:	2			40 TL
+Css Project:	14			700 TL
+Bootstrapt Project:	4			280 TL
+React Project:	5			550 TL
+Tailwind Project:	6			540 TL
+React+Tailwind Project:	8			1600 TL
+Flask Project:	7			840 TL
+Django Project:	6			900 TL
+Node.js Project:	5			850 TL
+Sql Project:	4			400 TL
+React+Tailwind Project:	2			380 TL
+Tailwind Project:	5			600 TL
+JavaScript Project:	22			2420 TL
+Python Project:	1			100 TL
+Desktop Project:	1			170 TL
+React + Django Project:	9			2700 TL
+React+Flask Project:	8			1760 TL
+Mobile Project:	6			1560 TL
+------------------------------------------------
+ FrontEnd Tax: 	556.5 TL
+ Backend Tax: 	595.5 TL
+ FullStack Tax: 	1306.5 TL
+Total Bill : 		 18848.5 

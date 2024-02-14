@@ -1,0 +1,34 @@
+		**Welcome  Customer**
+
+Bill Number : 589
+
+Customer Name : yavuz
+
+ Customer Phone : 53533343431
+
+===========================================
+Product		Quantity		Price
+===========================================
+Html Project:	2			40 TL
+Css Project:	2			100 TL
+Bootstrapt Project:	4			280 TL
+React Project:	6			660 TL
+Tailwind Project:	5			450 TL
+React+Tailwind Project:	4			800 TL
+Flask Project:	4			480 TL
+Django Project:	4			600 TL
+Node.js Project:	3			510 TL
+Sql Project:	2			200 TL
+React+Tailwind Project:	4			760 TL
+Tailwind Project:	3			600 TL
+JavaScript Project:	2			220 TL
+Python Project:	33			3300 TL
+Desktop Project:	2			340 TL
+React + Django Project:	33			9900 TL
+React+Flask Project:	1			220 TL
+Mobile Project:	2			520 TL
+------------------------------------------------
+ FrontEnd Tax: 	349.5 TL
+ Backend Tax: 	472.5 TL
+ FullStack Tax: 	2175.0 TL
+Total Bill : 		 22977.0 
